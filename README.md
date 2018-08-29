@@ -4,9 +4,8 @@ Author: Jacqueline Neef
 The goal of this project is to combine different Machine Learning and Computer Vision approaches to
 create an algorithm that can recognize in real-time the letters A and C of the sign language alphabet.
 
-The DetectSignLanguage executable can be run as follows:
-It must be run in a Linux environment (x86_64), where the following opencv libraries are installed
-under the path /usr/local/lib/:
+The DetectSignLanguage code must be compiled run in a Linux environment (x86_64),
+where the following opencv libraries are installed:
 - libopencv_objdetect
 - libopencv_core
 - libopencv_highgui
